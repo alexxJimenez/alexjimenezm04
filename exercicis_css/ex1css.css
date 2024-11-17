@@ -1,0 +1,40 @@
+body {
+    background-color: yellow;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: orange;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px; 
+}
+
+ul ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+a:active {
+    color: lime;
+}
